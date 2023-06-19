@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, It’s Harsh Vardhan</h1>
-<h3 align="center">I'm a Full Stack Software Engineer and Indie Game Developer. I specialize in creating awesome web apps, mobile apps, and games on cloud platforms. Whether you need a professional website or a cutting-edge mobile app, I've got you covered. And when I'm not busy creating amazing tech solutions, you can find me developing my own games and reading Manga. Because let's face it, there's nothing quite like the thrill of building something from scratch and losing yourself in a good story. So, if you need a tech expert who can also geek out about games and books, hit me up!</h3>
+<h3 align="center">I'm a Full Stack Software Engineer and Indie Game Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="thvardhan" /> </p>
 
